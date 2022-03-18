@@ -12,7 +12,7 @@ In this demo, i m using dapper in order to execute oracle stored procedures
 > 
 > - Type `docker-compose up` to run oracle database with docker
 >
-> - Run `Setup-Database.sql` in your favorite tool ([Dbeaver](https://dbeaver.io/), [Sql Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html), etc.) to setup database
+> - Run `Setup-Database.sql` to setup oracle database
 >
 > - Type `dotnet run -c release --project app` to run application
 >
