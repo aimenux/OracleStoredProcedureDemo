@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/OracleStoredProcedureDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/OracleStoredProcedureDemo/actions/workflows/ci.yml)
+
 # OracleStoredProcedureDemo
 ```
 Executing oracle stored procedures with dapper
